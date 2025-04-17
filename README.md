@@ -71,17 +71,4 @@ To evaluate year-over-year sales performance and identify profitable product lin
 - **Interactive Charts**: Clickable/filterable graphs and KPIs.
 - **Flexible Filters**: Filter by product category/subcategory and by location (region, state, city).
 
----
-
-## 🔎 Demo & Access
-
-- **Demo available upon request**
-- **For more info**:  
-  📧 hello@reallygreatsite.com  
-  🌐 [reallygreatsite.com](http://www.reallygreatsite.com)  
-  📞 123-456-7890
-
----
-
-## 🙏 Thanks!
 
